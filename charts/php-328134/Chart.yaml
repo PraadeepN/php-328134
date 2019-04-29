@@ -15,4 +15,4 @@ name: php-328134
 orig_name: phpmyadmin
 sources:
 - https://github.com/bitnami/bitnami-docker-phpmyadmin
-version: 2.2.0
+version: 0.0.1
